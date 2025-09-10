@@ -1,2 +1,3 @@
-# software-Zhong-Ming-Chu-Yun
-【2022 计算机设计大赛-软件开发赛道】Virtual Chime Software Based on Deep Learning
+# Project：ZhongMingChuYun
+【2022 Chinese Collegiate Computing Competition】ZhongMingChuYun： Chime Software Based on Deep Learning
+This respository is a repo of the code of the competition-4c
